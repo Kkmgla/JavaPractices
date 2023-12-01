@@ -1,1 +1,2 @@
 # JavaPractices
+Simple university assignments
